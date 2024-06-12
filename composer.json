@@ -1,6 +1,6 @@
 {
     "name": "mock/upstream_dependency",
-    "version": "1.0",
+    "version": "1.4.0",
     "description": "This is a mock upstream dependency for demonstration purposes.",
     "type": "library",
     "require": {},
