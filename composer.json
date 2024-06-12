@@ -1,0 +1,11 @@
+{
+    "name": "mock/upstream-dependency",
+    "description": "This is a mock upstream dependency for demonstration purposes.",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mock\\UpstreamDependency\\": "src/"
+        }
+    }
+}
